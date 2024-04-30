@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Kacper Wróbel / @kacrro
-- 👀 I’m interested in motoryzation, running, technology and sweet dogs.
-- 🌱 I’m currently learning how to cook and code :D 
-- 💞️ I’m looking to collaborate on learning about coding
+
 
 
 <!---
