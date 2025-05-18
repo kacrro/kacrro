@@ -1,3 +1,11 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kacrro/kacrro/output/github-snake.svg" />
+</picture>
+
 # 💫 About Me:
 🔭 I’m currently working on group projects on university, and my own "projects for begginers".<br>🤝 I’m looking for help with learning techniques. <br>🌱 I’m currently learning data science, frontend development.<br>⚡ (fun?) fact, I started using github late, but I hope and believe it's never too late :D 
 
@@ -18,8 +26,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kacrro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kacrro/kacrro/output/github-snake.svg" />
-</picture>
+
