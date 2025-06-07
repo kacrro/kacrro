@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&random=false&width=435&lines='03+CS+Student+in+warsaw" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&random=true&width=435&lines='03+CS+Student+in+warsaw" alt="Typing SVG"/>
 </div>
 
 # 💫 About Me:
