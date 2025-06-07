@@ -1,5 +1,7 @@
 
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&random=false&width=435&lines='03+CS+Student+in+warsaw" alt="Typing SVG"/>
+</div>
 
 # 💫 About Me:
 🔭 I’m currently working on group projects on university, and my own "projects for begginers".<br>🤝 I’m looking for help with learning techniques. <br>🌱 I’m currently learning data science, frontend development.<br>⚡ (fun?) fact, I started using github late, but I hope and believe it's never too late :D 
