@@ -1,8 +1,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2000&pause=5000&color=00FF00&width=800&height=300&separator=%3C&lines='03;+Student;+Computer+Science;" alt="Typing SVG" /></a>
 
-# 💫 About Me:
-🔭 I’m currently working in EMERGE IT SUPPORT, as helpdesk it junior specialist, and my own "projects for begginers".<br>🤝 I’m looking for help with learning techniques. <br>🌱 I’m currently learning data science, frontend development.<br>⚡ (fun?) fact, I started using github late, but I hope and believe it's never too late :D 
+# 💫 About Me  
+
+🔭 I’m currently working at **EMERGE IT SUPPORT** as a Junior IT Helpdesk Specialist. <br>  
+👨‍💻 In my free time, I enjoy exploring computer networks and building small beginner-friendly projects. <br>  
+🤝 I’m always open to learning new techniques and would love to connect with others who can share their knowledge. <br>  
+🌱 At the moment, I’m focusing on **data science** and **frontend development**. <br>  
+⚡ Fun fact: I started using GitHub a bit late, but I believe it’s never too late to learn and grow! :D  
 
 
 ## 🌐 Socials:
