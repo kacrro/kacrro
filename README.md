@@ -7,7 +7,7 @@
 👨‍💻 In my free time, I enjoy exploring computer networks and building small beginner-friendly projects. <br>  
 🤝 I’m always open to learning new techniques and would love to connect with others who can share their knowledge. <br>  
 🌱 At the moment, I’m focusing on **data science** and **frontend development**. <br>  
-⚡ Fun fact: I started using GitHub a bit late, but I believe it’s never too late to learn and grow! :D  
+
 
 
 ## 🌐 Socials:
